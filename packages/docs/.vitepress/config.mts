@@ -23,7 +23,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/chengrui990/font-element' },
+      { icon: 'github', link: 'https://gitee.com/crui990/font-element' }
     ]
   }
 })

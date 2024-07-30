@@ -4,3 +4,5 @@ import  {withInstall} from '@font-element/utils'
 export const CrButton = withInstall(Button)
 
 export default CrButton
+
+export * from './types.ts'
