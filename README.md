@@ -9,8 +9,8 @@ Actions的配置文件：.github/workflows/test-and-deploy.yml
 
 ### nodejs版本
 使用nvm来切换（安装和配置nvm）  
-在.nvmrc中写要使用的版本v18.16.0
-在命令行执行命令：
+在.nvmrc中写要使用的版本v18.16.0  
+再在命令行执行命令：
 ```shell
 nvm use $(cat .nvmrc)
 ```
